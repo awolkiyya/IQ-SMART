@@ -1,0 +1,1 @@
+// here i specified every types of my components here
